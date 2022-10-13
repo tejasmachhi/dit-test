@@ -170,7 +170,7 @@ span.material-symbols-outlined {
 /* css for banner section  */
 
 .banner-section {
-  background-image: url(/assets/img/Banner.png);
+  background-image: url(Banner.png);
   height: 600px;
   background-position: center;
   background-size: cover;
